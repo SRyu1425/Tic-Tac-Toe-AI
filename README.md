@@ -19,4 +19,5 @@ Upon running main.py, you will be prompted to choose a mode of play:
 - ha: Human vs. AI
 - ah: AI vs. Human (AI makes the first move)
 - aa: AI vs. AI
+
 Select your preferred mode by typing the corresponding code and enjoy the game through an interactive terminal session.
